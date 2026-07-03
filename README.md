@@ -1,4 +1,4 @@
-<img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/dd9286b2-c78c-44d2-8b88-66054fe2210a" />
+
 
 # Developer Software キロ
 
@@ -11,7 +11,8 @@ Creation, design, programming, testing, and maintenance of computer applications
  - [Awesome ](https://www.facebook.com/backtrack.jar)
  - [Profile ](https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/)
 
- <p align="center"> <img src="https://share.google/WP9oB2xqznV5BQ1rU" alt="Hacker Dragon" width="300" align="right"/> </p>
+<img width="600" height="450" alt="kali" src="https://github.com/user-attachments/assets/189e23a5-cd31-428d-b56e-1f2a6624d405" />
+
 
  Java: Microservicios con Spring Boot, Hibernate, y patrones DDD.
 
