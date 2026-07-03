@@ -1,3 +1,4 @@
+<img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/dd9286b2-c78c-44d2-8b88-66054fe2210a" />
 
 # Developer Software キロ
 
