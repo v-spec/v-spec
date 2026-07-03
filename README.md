@@ -1,6 +1,6 @@
 
 
-# Developer Software キロ
+# Developer Software                                                                                                                                                                                                  キロ
 
 
 Creation, design, programming, testing, and maintenance of computer applications or systems. My primary goal is to develop efficient technological solutions that solve specific problems, automate processes, and meet both user needs and business objectives. I implement AI to streamline operations and optimize quality to the highest level.
@@ -8,11 +8,11 @@ Creation, design, programming, testing, and maintenance of computer applications
 
 ## About
 
- - [Awesome ](https://www.facebook.com/backtrack.jar)
- - [Profile ](https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/)  
-                                                                          <p align="right">
+ - [Awesome ](https://www.facebook.com/backtrack.jar)                     <p align="right">
                                                                           <img width="281" height="202" alt="kali (1)" src="https://github.com/user-attachments/assets/572a7b70-1764-4a19-8016-c7686941b2ae" />
                                                                           </p>
+ - [Profile ](https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/)  
+                                                                          
 Java: Microservicios con Spring Boot, Hibernate, y patrones DDD.
 
 Python: FastAPI, Django, y automatización con asyncio.
