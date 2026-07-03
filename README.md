@@ -10,6 +10,14 @@ Creation, design, programming, testing, and maintenance of computer applications
  - [Awesome ](https://www.facebook.com/backtrack.jar)
  - [Profile ](https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/)
 
+ <p align="center"> <img src="https://share.google/WP9oB2xqznV5BQ1rU" alt="Hacker Dragon" width="300" align="right"/> </p>
+
+ Java: Microservicios con Spring Boot, Hibernate, y patrones DDD.
+
+Python: FastAPI, Django, y automatización con asyncio.
+
+SQL: Optimización de consultas, diseño de bases de datos (PostgreSQL, MySQL).
+
 
 
 ## API Reference
@@ -55,5 +63,4 @@ To run this project, you will need to add the following environment variables to
 `API_KEY`
 
 `ANOTHER_API_KEY`
-
 
