@@ -11,7 +11,7 @@ Creation, design, programming, testing, and maintenance of computer applications
  - [Awesome ](https://www.facebook.com/backtrack.jar)
  - [Profile ](https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/)
 
-<img width="281" height="202" alt="kali (1)" src="https://github.com/user-attachments/assets/572a7b70-1764-4a19-8016-c7686941b2ae" />
+<img width="281" height="202" alt="kali (1)" src="https://github.com/user-attachments/assets/572a7b70-1764-4a19-8016-c7686941b2ae" style="float: right; margin-left: 10px;" />
 
  Java: Microservicios con Spring Boot, Hibernate, y patrones DDD.
 
