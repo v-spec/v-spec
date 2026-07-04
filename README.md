@@ -9,7 +9,7 @@ Creation, design, programming, testing, and maintenance of computer applications
 ## About
 
  - [Awesome ](https://www.facebook.com/backtrack.jar)                     <p align="right">
-                                                                          <img width="498" height="448" alt="drago2" src="https://github.com/user-attachments/assets/01a6dcd3-c09d-46dc-8889-b7f51cd48791" />
+                                                                          <img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/19f4ea06-f66c-448a-834a-b85bcbbf477f" />
                                                                           </p>
  - [Profile ](https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/)  
                                                                           
