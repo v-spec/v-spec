@@ -56,8 +56,7 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-<img width="220" height="201" alt="rubik" src="https://github.com/user-attachments/assets/5ee4b8a2-2091-45e4-bd74-ece40906c62d" />
-
+<img width="480" height="480" alt="rubik2" src="https://github.com/user-attachments/assets/23340c99-1a44-46ef-8cb9-8d3f63e49d08" />
 
 ## Environment Variables
 
