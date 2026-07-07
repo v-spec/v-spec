@@ -85,7 +85,7 @@ api_key	string	🔴 REQ	Your API key for auth
 └────────────────────────────────────────────┘
 
 [🔓] GET SINGLE ITEM
-<img width="480" height="480" alt="rubik2" src="https://github.com/user-attachments/assets/23340c99-1a44-46ef-8cb9-8d3f63e49d08" />
+
 
 ═══════════════ ENVIRONMENT ═══════════════
 # ─── .env CONFIGURATION ───
@@ -104,4 +104,5 @@ v-spec
 ║  🤖 AI CORE: CLAUDE v3.5                 ║
 ║  📡 CONNECTION: STABLE                   ║
 ╚═══════════════════════════════════════════╝
+<img width="480" height="480" alt="rubik2" src="https://github.com/user-attachments/assets/23340c99-1a44-46ef-8cb9-8d3f63e49d08" />
 
