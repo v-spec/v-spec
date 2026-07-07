@@ -1,6 +1,6 @@
 # ⚡ Developer Software キロ ⚡
 
-##
+### v-spec
 
 <table>
   <tr>
@@ -105,6 +105,6 @@ v-spec
 ║  📡 CONNECTION: STABLE                   ║
 ╚═══════════════════════════════════════════╝
 
-
+<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/e0752fb4-8ad0-4182-9386-a5c0d205fe4a" />
 
 
