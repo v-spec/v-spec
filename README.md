@@ -27,12 +27,13 @@ $> whoami
 
 
 PORT	STATE	SERVICE	VERSION
-- Java: Microservicios con FastAPI faslk.
+- Java: JCA JCE 
 - Python: Django, y automatización con Claude AI.
+- Microservicios con FastAPI flask.
 - SQL: Optimización de consultas, diseño de bases de datos (PostgreSQL, MySQL).
 - Nmap, Wireshark, Metasploit, Burp_Suite y Hashcat.
 
-👾 CONTRIBUTING
+👾 v-spec
 ┌─────────────────────────────────────────────────┐
 │  👾 CONTRIBUTIONS ALWAYS WELCOME!               │
 │                                                 │
@@ -47,5 +48,6 @@ Security:       ENCRYPTED
 AI Core:        CLAUDE v3.5
 Connection:     STABLE
 
-<div align="center"> <sub>⚡ Built with passion • Code clean • Stay secure ⚡</sub> </div> ```
+<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/6f1771a0-549d-488a-8c4e-cfb145ca6aa6" />
+
 
