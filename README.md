@@ -1,4 +1,4 @@
-### ⚡ Developer Software キロ ⚡
+### 🐉 Developer Software キロ 🐉
 
 <div align="center">
   <img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/19f4ea06-f66c-448a-834a-b85bcbbf477f" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 Connect with me
+### 🔗🥷 Connect with me
 
 <div align="center">
   <a href="https://www.facebook.com/backtrack.jar">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🔥 TECH STACK
+#### 🔥 TECH STACK
 
 ```bash
 $> whoami
@@ -48,6 +48,6 @@ Security:       ENCRYPTED
 AI Core:        CLAUDE v3.5
 Connection:     STABLE
 
-<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/6f1771a0-549d-488a-8c4e-cfb145ca6aa6" />
+
 
 
