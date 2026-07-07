@@ -7,8 +7,6 @@
 
 Creation, design, programming, testing, and maintenance of computer applications or systems. My primary goal is to develop efficient technological solutions that solve specific problems, automate processes, and meet both user needs and business objectives. I implement AI to streamline operations and optimize quality to the highest level.
 
-## About
-
 <table>
   <tr>
     <td width="50%" align="center">
