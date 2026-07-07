@@ -33,11 +33,5 @@ PORT	STATE	SERVICE	VERSION
 3306/tcp	open	MySQL	Design Patterns • Performance
 1337/tcp	open	Security	Nmap • Nessus • PenTesting
 
-🛠️ Tools & Technologies
-<details> <summary><b>Click to expand</b></summary>
-Category	Technologies
-Python	FastAPI • Django • Claude AI
-Database	PostgreSQL • MySQL • Tuning
-Security	Nmap • Nessus • Pentesting
-</details>
+
 
