@@ -27,11 +27,10 @@ $> whoami
 
 
 PORT	STATE	SERVICE	VERSION
-8080/tcp	open	Java	Spring Boot • Hibernate • DDD
-5000/tcp	open	Python	FastAPI • Django • Claude AI
-5432/tcp	open	PostgreSQL	Optimized Queries • Data Architecture
-3306/tcp	open	MySQL	Design Patterns • Performance
-1337/tcp	open	Security	Nmap • Nessus • PenTesting
+- Java: Microservicios con FastAPI faslk.
+- Python: Django, y automatización con Claude AI.
+- SQL: Optimización de consultas, diseño de bases de datos (PostgreSQL, MySQL).
+- Nmap, Wireshark, Metasploit, Burp_Suite y Hashcat.
 
 
 
