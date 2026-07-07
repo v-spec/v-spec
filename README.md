@@ -1,6 +1,6 @@
 # ⚡ Developer Software キロ ⚡
 
-
+##
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ PORT     STATE    SERVICE        VERSION
 🛠️ TOOLS & TECHNOLOGIES
 
 ┌────────────────────────────────────────────┐
-│  ☕ JAVA    │ Microservices • Spring Boot  │
+│  ☕ JAVA    │ Microservices • Flask        │
 │  🐍 PYTHON │ FastAPI • Django • Claude AI  │
 │  🗄️ SQL    │ PostgreSQL • MySQL • Tuning   │
 │  🔒 SEC    │ Nmap • Nessus • Pentesting    │
