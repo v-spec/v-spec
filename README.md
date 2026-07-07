@@ -85,6 +85,8 @@ ANOTHER_API_KEY="YOUR_SECOND_KEY_HERE"
 DB_CONNECTION="postgresql://user:pass@localhost:5432/db"
 SECURITY_TOKEN="xXx_H4CK3R_T0K3N_xXx"
 
+v-spec
+
 ╔═══════════════════════════════════════════╗
 ║  🚀 SYSTEM STATUS: OPERATIONAL           ║
 ║  🔐 SECURITY: ENCRYPTED                  ║
