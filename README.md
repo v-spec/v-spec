@@ -1,6 +1,6 @@
 # ⚡ Developer Software キロ ⚡
 
-## About
+
 
 <table>
   <tr>
