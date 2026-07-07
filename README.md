@@ -30,6 +30,7 @@
 $> nmap -sV 127.0.0.1 --tech-stack
 
 
+
 PORT     STATE    SERVICE        VERSION
 8080/tcp open     Java           Spring Boot • Hibernate • DDD
 5000/tcp open     Python         FastAPI • Django • Claude AI
@@ -37,7 +38,9 @@ PORT     STATE    SERVICE        VERSION
 3306/tcp open     MySQL          Design Patterns • Performance
 1337/tcp open     Security       Nmap • Nessus • PenTesting
 
+
 🛠️ TOOLS & TECHNOLOGIES
+
 
 ┌────────────────────────────────────────────┐
 │  ☕ JAVA    │ Microservices • Flask        │
@@ -46,7 +49,9 @@ PORT     STATE    SERVICE        VERSION
 │  🔒 SEC    │ Nmap • Nessus • Pentesting    │
 └────────────────────────────────────────────┘
 
+
 ═══════════════ API REFERENCE ═══════════════
+
 [🔓] GET ALL ITEMS
 
   ╔════════════════════════════════════════╗
@@ -57,8 +62,10 @@ PORT     STATE    SERVICE        VERSION
   ╚════════════════════════════════════════╝
 
 
+
 PARAMETER	TYPE	STATUS	DESCRIPTION
 api_key	string	🔴 REQ	Your API key for auth
+
 
   ╔════════════════════════════════════════╗
   ║  GET /api/items/${id}                  ║
@@ -66,7 +73,9 @@ api_key	string	🔴 REQ	Your API key for auth
   ║  > id: {TARGET_ID}                     ║
   ╚════════════════════════════════════════╝
 
+
 ═══════════════ CONTRIBUTING ═══════════════
+
 ┌────────────────────────────────────────────┐
 │  👾 CONTRIBUTIONS ALWAYS WELCOME!          │
 │                                            │
@@ -76,9 +85,7 @@ api_key	string	🔴 REQ	Your API key for auth
 └────────────────────────────────────────────┘
 
 [🔓] GET SINGLE ITEM
-
 <img width="480" height="480" alt="rubik2" src="https://github.com/user-attachments/assets/23340c99-1a44-46ef-8cb9-8d3f63e49d08" />
-
 ═══════════════ ENVIRONMENT ═══════════════
 # ─── .env CONFIGURATION ───
 $> cat .env
