@@ -27,6 +27,7 @@
 ██████████████ TECH STACK ██████████████
 $> nmap -sV 127.0.0.1 --tech-stack
 
+
 PORT     STATE    SERVICE        VERSION
 8080/tcp open     Java           Spring Boot • Hibernate • DDD
 5000/tcp open     Python         FastAPI • Django • Claude AI
