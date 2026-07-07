@@ -24,6 +24,8 @@
   </tr>
 </table>
 
+
+
 ██████████████ TECH STACK ██████████████
 $> nmap -sV 127.0.0.1 --tech-stack
 
@@ -36,6 +38,7 @@ PORT     STATE    SERVICE        VERSION
 1337/tcp open     Security       Nmap • Nessus • PenTesting
 
 🛠️ TOOLS & TECHNOLOGIES
+
 ┌────────────────────────────────────────────┐
 │  ☕ JAVA    │ Microservices • Spring Boot  │
 │  🐍 PYTHON │ FastAPI • Django • Claude AI  │
