@@ -88,7 +88,8 @@ api_key	string	🔴 REQ	Your API key for auth
 
 
 ═══════════════ ENVIRONMENT ═══════════════
-# ─── .env CONFIGURATION ───
+## ─── CONFIGURATION ───
+
 $> cat .env
 
 API_KEY="YOUR_SECRET_KEY_HERE"
