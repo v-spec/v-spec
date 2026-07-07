@@ -9,27 +9,24 @@ Creation, design, programming, testing, and maintenance of computer applications
 
 ## ═══════════════════ ABOUT ═══════════════════
 
+```markdown
 <table>
   <tr>
     <td width="50%" align="center">
-      <pre>
-      ╔══════════════════════════════════╗
-      ║    🐉 DRAGON CORE v2.1.0         ║
-      ║    [ACTIVE]                      ║
-      ╚══════════════════════════════════╝
       <img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/19f4ea06-f66c-448a-834a-b85bcbbf477f" />
-      </pre>
     </td>
     <td width="50%" valign="middle">
-      <pre>
-╔══════════════════════════════════════════════════════════════════════════════════════════════╗
-║  🔗 CONNECT &amp; PENETRATE                                                                 ║
-╠══════════════════════════════════════════════════════════════════════════════════════════════╣
-║  📘 > <a href="https://www.facebook.com/backtrack.jar">AWESOME</a>                          ║
-║  💼 > <a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/">PROFILE</a>       ║
-║  🛡️ > SECURE CONNECTION ESTABLISHED                                                         ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════╝
-      </pre>
+      <div align="center">
+        <pre>
+╔═══════════════════════════════════════╗
+║  🔗 CONNECT WITH ME                   ║
+╚═══════════════════════════════════════╝
+        </pre>
+        <br>
+        <a href="https://www.facebook.com/backtrack.jar">📘 Awesome</a>
+        <br><br>
+        <a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/">💼 Profile</a>
+      </div>
     </td>
   </tr>
 </table>
