@@ -32,5 +32,12 @@ PORT	STATE	SERVICE	VERSION
 - SQL: Optimización de consultas, diseño de bases de datos (PostgreSQL, MySQL).
 - Nmap, Wireshark, Metasploit, Burp_Suite y Hashcat.
 
-
+👾 CONTRIBUTING
+┌─────────────────────────────────────────────────┐
+│  👾 CONTRIBUTIONS ALWAYS WELCOME!              │
+│                                                 │
+│  > Read CONTRIBUTING.md for guidelines          │
+│  > Follow code of conduct                       │
+│  > Submit PR with detailed description          │
+└─────────────────────────────────────────────────┘
 
