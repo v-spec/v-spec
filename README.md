@@ -27,7 +27,7 @@
 
 
 ██████████████ TECH STACK ██████████████
-$> nmap -sV 127.0.0.1 --tech-stack
+$> whoami
 
 
 
