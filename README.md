@@ -68,11 +68,11 @@ PORT	STATE	SERVICE	VERSION
 
 | Documento | Enlace |
 |-----------|--------|
-| 📖 API Docs | [Ver Documentación](https://tu-api.com/docs)     |
-| 🗄️ Database Schema | [Ver Schema](https://tu-db.com/schema)   |
-| 🏗️ Architecture | [Ver Arquitectura](https://tu-arch.com)     |
-| 🚀 Deployment Guide | [Ver Guía](https://tu-deploy.com)       |
-| 🔒 Security Policy | [Ver Política](https://tu-security.com)   |
+| 📖 API Docs          | [Ver Documentación](https://tu-api.com/docs)  |
+| 🗄️ Database Schema   | [Ver Schema](https://tu-db.com/schema)        |
+| 🏗️ Architecture      | [Ver Arquitectura](https://tu-arch.com)       |
+| 🚀 Deployment Guide  | [Ver Guía](https://tu-deploy.com)             |  
+| 🔒 Security Policy   | [Ver Política](https://tu-security.com)       |
 
 
 
