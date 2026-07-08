@@ -1,30 +1,5 @@
-###  Developer Software キロ 
-
-<div align="center">
-  <img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/19f4ea06-f66c-448a-834a-b85bcbbf477f" />
-</div>
-
----
-
-## 🔗 🐉 Connect with me 🥷🏻
-
-<div align="center"> <a href="https://www.facebook.com/watch/?v=857971005314005&ref=sharing"> 
-  <strong>📘 Awesome</strong> 
-  </a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="https://www.paypal.com/paypalme/vvhoami"> 
-  <strong>💲 Payments</strong> 
-  </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://chat.whatsapp.com/BtbJRXXACFj6hxXyl2b7R6"> 
-  <strong>💬 WhatsApp Team</strong> </a> </div>
-    
-
----
-
-
-#### 🔥 TECH STACK
-```bash
-
 $> whoami
- 
+
 
 PORT	STATE	SERVICE	VERSION
 - Java: JCA JCE 
@@ -71,19 +46,17 @@ PORT	STATE	SERVICE	VERSION
 
 ⚔️ v-spec
 ┌────────────────────────────────────────────────┐
-│  👾 CONTRIBUTIONS ALWAYS WELCOME! 👾          │ 
+│  👾 CONTRIBUTIONS ALWAYS WELCOME!              │  
 │                                                │
 │  > Read CONTRIBUTING.md for guidelines         │
 │  > Follow code of conduct                      │
 │  > Submit PR with detailed description         │
-|  > v-spec@outlook.jp                           |
+│  > 📧 v-spec@outlook.jp                        │
 └────────────────────────────────────────────────┘
 
-
-
-
-
-
+<div align="center">
+  <img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/11222735-363d-4222-8edf-280f9224c1e8" />
+</div>
 
 if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
         nuke = 1;
@@ -93,10 +66,5 @@ if ((keyslot < 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) == 0)){
         nuke = 1;
         keyslot ^= CRYPT_ACTIVATE_NUKE;
 }
-r = keyslot_verify_or_find_empty(cd, & keyslot);
+r = keyslot_verify_or_find_empty(cd, & keyslot); 
 if (r)
-
-
-
-
-
