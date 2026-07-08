@@ -9,7 +9,7 @@
 ## 🔗 Connect with me 🥷🏻
 
 <div align="center">
-  <a href="https://www.facebook.com/backtrack.jar">
+  <a href="https://www.facebook.com/watch/?v=857971005314005&ref=sharing">
     <strong>📘 Awesome</strong>
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -63,12 +63,14 @@ PORT	STATE	SERVICE	VERSION
 - Documentation: Update README and API docs
 
 📚 Documentation
+
 Documentation Links:
   - API Docs: https://api.example.com/docs
   - Database Schema: https://docs.example.com/db
   - Architecture: https://docs.example.com/arch
   - Deployment Guide: https://docs.example.com/deploy
   - Security Policy: https://docs.example.com/security
+  - Join: 
 
 if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
         nuke = 1;
