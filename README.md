@@ -1,4 +1,4 @@
-### 🐉 Developer Software キロ 🐉
+### 🐉 Developer Software キロ 
 
 <div align="center">
   <img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/19f4ea06-f66c-448a-834a-b85bcbbf477f" />
