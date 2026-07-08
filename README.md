@@ -14,7 +14,7 @@
   <!--<a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/">--> 
   <strong>💼 Profile</strong> 
   </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://chat.whatsapp.com/BtbJRXXACFj6hxXyl2b7R6"> 
-  <strong>💬 WhatsApp Community</strong> </a> </div>
+  <strong>💬 WhatsApp Team</strong> </a> </div>
 
 ---
 
