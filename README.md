@@ -6,7 +6,7 @@
 
 ---
 
-### 🔗🥷 Connect with me
+## 🔗 Connect with me
 
 <div align="center">
   <a href="https://www.facebook.com/backtrack.jar">
@@ -14,7 +14,6 @@
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/">
-    
     <strong>💼 Profile</strong>
   </a>
 </div>
