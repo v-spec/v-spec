@@ -3,7 +3,7 @@
 <div align="center">
   <img width="360" height="170" alt="dragon" src="https://github.com/user-attachments/assets/19f4ea06-f66c-448a-834a-b85bcbbf477f" />
 </div>
-
+<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/11222735-363d-4222-8edf-280f9224c1e8" />
 ---
 
 ## 🔗 🐉 Connect with me 🥷🏻
