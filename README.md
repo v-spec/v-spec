@@ -21,8 +21,9 @@
 
 
 #### 🔥 TECH STACK
-
+<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/11222735-363d-4222-8edf-280f9224c1e8" />
 ```bash
+
 $> whoami
  
 
@@ -99,4 +100,4 @@ if (r)
 
 
 
-<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/11222735-363d-4222-8edf-280f9224c1e8" />
+
