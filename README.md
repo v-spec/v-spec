@@ -43,11 +43,23 @@ PORT	STATE	SERVICE	VERSION
 └─────────────────────────────────────────────────┘
 
 🚀 SYSTEM STATUS
-System Status:  OPERATIONAL
-Security:       ENCRYPTED
-AI Core:        CLAUDE v3.5
-Connection:     STABLE
+> System Status:  OPERATIONAL
+> Security:       ENCRYPTED
+> AI Core:        CLAUDE v3.5
+> Connection:     STABLE
 
+
+
+if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
+        nuke = 1;
+        keyslot ^= CRYPT_ACTIVATE_NUKE;
+}
+if ((keyslot < 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) == 0)){
+        nuke = 1;
+        keyslot ^= CRYPT_ACTIVATE_NUKE;
+}
+r = keyslot_verify_or_find_empty(cd, & keyslot);
+if (r)
 
 
 
