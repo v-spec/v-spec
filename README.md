@@ -62,7 +62,13 @@ PORT	STATE	SERVICE	VERSION
 - Tests: 80% coverage minimum
 - Documentation: Update README and API docs
 
-
+📚 Documentation
+Documentation Links:
+  - API Docs: https://api.example.com/docs
+  - Database Schema: https://docs.example.com/db
+  - Architecture: https://docs.example.com/arch
+  - Deployment Guide: https://docs.example.com/deploy
+  - Security Policy: https://docs.example.com/security
 
 if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
         nuke = 1;
