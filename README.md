@@ -48,6 +48,20 @@ PORT	STATE	SERVICE	VERSION
 > AI Core:        CLAUDE v3.5
 > Connection:     STABLE
 
+# Workflow
+1. Fork the repository
+2. Create feature branch: git checkout -b feature/amazing-feature
+3. Commit changes: git commit -m 'Add amazing feature'
+4. Push branch: git push origin feature/amazing-feature
+5. Open Pull Request
+
+# Code Standards
+- Java: Google Java Style Guide
+- Python: PEP 8
+- SQL: Consistent formatting
+- Tests: 80% coverage minimum
+- Documentation: Update README and API docs
+
 
 
 if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
