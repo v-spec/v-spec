@@ -70,12 +70,12 @@ PORT	STATE	SERVICE	VERSION
 
 ⚔️ v-spec
 ┌────────────────────────────────────────────────┐
-│  👾 CONTRIBUTIONS ALWAYS WELCOME!             │  
+│  👾 CONTRIBUTIONS ALWAYS WELCOME!             | 
 │                                                │
 │  > Read CONTRIBUTING.md for guidelines         │
 │  > Follow code of conduct                      │
 │  > Submit PR with detailed description         |
-|  > v-spec@outlook.jp                           │
+|  > v-spec@outlook.jp                           |
 └────────────────────────────────────────────────┘
 
 
