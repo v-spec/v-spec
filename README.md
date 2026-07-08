@@ -76,6 +76,8 @@ PORT	STATE	SERVICE	VERSION
 
 
 
+
+
 if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
         nuke = 1;
         keyslot ^= CRYPT_ACTIVATE_NUKE;
