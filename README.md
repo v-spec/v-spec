@@ -34,13 +34,13 @@ PORT	STATE	SERVICE	VERSION
 - Nmap, Wireshark, Metasploit, Burp_Suite y Hashcat.
 
 ⚔️ v-spec
-┌─────────────────────────────────────────────────┐
-│  👾 CONTRIBUTIONS ALWAYS WELCOME!               │
-│                                                 │
-│  > Read CONTRIBUTING.md for guidelines          │
-│  > Follow code of conduct                       │
-│  > Submit PR with detailed description          │
-└─────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│  👾 CONTRIBUTIONS ALWAYS WELCOME!              │
+│                                                │
+│  > Read CONTRIBUTING.md for guidelines         │
+│  > Follow code of conduct                      │
+│  > Submit PR with detailed description         │
+└────────────────────────────────────────────────┘
 
 🚀 SYSTEM STATUS
 > System Status:  OPERATIONAL
