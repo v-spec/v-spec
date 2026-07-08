@@ -33,14 +33,6 @@ PORT	STATE	SERVICE	VERSION
 - SQL: Optimización de consultas, diseño de bases de datos (PostgreSQL, MySQL).
 - Nmap, Wireshark, Metasploit, Burp_Suite y Hashcat.
 
-⚔️ v-spec
-┌────────────────────────────────────────────────┐
-│  👾 CONTRIBUTIONS ALWAYS WELCOME!              │
-│                                                │
-│  > Read CONTRIBUTING.md for guidelines         │
-│  > Follow code of conduct                      │
-│  > Submit PR with detailed description         │
-└────────────────────────────────────────────────┘
 
 🚀 SYSTEM STATUS
 > System Status:  OPERATIONAL
@@ -74,6 +66,17 @@ PORT	STATE	SERVICE	VERSION
 | 🚀 Deployment Guide  | [Ver Guía](https://tu-deploy.com)             |  
 | 🔒 Security Policy   | [Ver Política](https://tu-security.com)       |
 
+
+
+
+⚔️ v-spec
+┌────────────────────────────────────────────────┐
+│  👾 CONTRIBUTIONS ALWAYS WELCOME!              │
+│                                                │
+│  > Read CONTRIBUTING.md for guidelines         │
+│  > Follow code of conduct                      │
+│  > Submit PR with detailed description         │
+└────────────────────────────────────────────────┘
 
 
 
