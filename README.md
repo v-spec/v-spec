@@ -66,8 +66,8 @@ PORT	STATE	SERVICE	VERSION
 
 ## 📚 Documentación
 
-| Documento | Enlace |
-|-----------|--------|
+| Documento             |                  Enlace                      |
+|-----------------------|----------------------------------------------|
 | 📖 API Docs          | [Ver Documentación](https://tu-api.com/docs)  |
 | 🗄️ Database Schema   | [Ver Schema](https://tu-db.com/schema)        |
 | 🏗️ Architecture      | [Ver Arquitectura](https://tu-arch.com)       |
