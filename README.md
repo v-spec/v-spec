@@ -15,6 +15,8 @@
   <strong>💼 Profile</strong> 
   </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://chat.whatsapp.com/BtbJRXXACFj6hxXyl2b7R6"> 
   <strong>💬 WhatsApp Team</strong> </a> </div>
+  <a href="https://www.paypal.com/paypalme/vvhoami"> <strong>💲 Support</strong> </a> </div>
+  
 
 ---
 
@@ -69,13 +71,11 @@ PORT	STATE	SERVICE	VERSION
 
 ⚔️ v-spec
 ┌────────────────────────────────────────────────┐
-│  👾 CONTRIBUTIONS ALWAYS WELCOME!              │  
+│  👾 CONTRIBUTIONS ALWAYS WELCOME!             │  
 │                                                │
 │  > Read CONTRIBUTING.md for guidelines         │
 │  > Follow code of conduct                      │
 │  > Submit PR with detailed description         │
-│  > ☕ Support the project:                     │
-│    https://paypal.me/vvhoami                   │
 └────────────────────────────────────────────────┘
 
 
