@@ -15,7 +15,7 @@
   <strong>💼 Profile</strong> 
   </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://chat.whatsapp.com/BtbJRXXACFj6hxXyl2b7R6"> 
   <strong>💬 WhatsApp Team</strong> </a> </div>
-  <a href="https://www.paypal.com/paypalme/vvhoami"> <strong>💲 Support</strong> </a> </div>
+  <a href="https://www.paypal.com/paypalme/vvhoami"> <strong>💲Payments</strong> </a> </div>
   
 
 ---
