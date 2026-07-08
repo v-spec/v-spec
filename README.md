@@ -74,7 +74,8 @@ PORT	STATE	SERVICE	VERSION
 │                                                │
 │  > Read CONTRIBUTING.md for guidelines         │
 │  > Follow code of conduct                      │
-│  > Submit PR with detailed description         │
+│  > Submit PR with detailed description         |
+|  > v-spec@outlook.jp                           │
 └────────────────────────────────────────────────┘
 
 
