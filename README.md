@@ -9,8 +9,10 @@
 ## 🔗 🐉 Connect with me 🥷🏻
 
 <div align="center"> <a href="https://www.facebook.com/watch/?v=857971005314005&ref=sharing"> 
-  <strong>📘 Awesome</strong> </a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/"> <strong>💼 Profile</strong> 
+  <strong>📘 Awesome</strong> 
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <!--<a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/">--> 
+  <strong>💼 Profile</strong> 
   </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://chat.whatsapp.com/BtbJRXXACFj6hxXyl2b7R6"> 
   <strong>💬 WhatsApp Community</strong> </a> </div>
 
