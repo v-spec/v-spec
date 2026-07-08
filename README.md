@@ -11,12 +11,11 @@
 <div align="center"> <a href="https://www.facebook.com/watch/?v=857971005314005&ref=sharing"> 
   <strong>📘 Awesome</strong> 
   </a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <!--<a href="https://www.linkedin.com/in/ing-andres-bonilla-8b77523b4/">--> 
-  <strong>💼 Profile</strong> 
+  <a href="https://www.paypal.com/paypalme/vvhoami"> 
+  <strong>💲 Payments</strong> 
   </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://chat.whatsapp.com/BtbJRXXACFj6hxXyl2b7R6"> 
   <strong>💬 WhatsApp Team</strong> </a> </div>
-  <a href="https://www.paypal.com/paypalme/vvhoami"> <strong>💲Payments</strong> </a> </div>
-  
+    
 
 ---
 
