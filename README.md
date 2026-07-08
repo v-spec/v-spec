@@ -79,7 +79,7 @@ PORT	STATE	SERVICE	VERSION
 └────────────────────────────────────────────────┘
 
 
-
+<img width="598" height="170" alt="OFVZw" src="https://github.com/user-attachments/assets/6651ae3d-f115-4be5-9391-5c18c47fba37" />
 
 
 if( (keyslot > 0) && ((keyslot & CRYPT_ACTIVATE_NUKE) != 0)){
